@@ -1,0 +1,8 @@
+
+repositories {
+  maven { url 'http://maven.manofj.com/' }
+}
+
+dependencies {
+  compile group: 'com.manofj.commons.scala', name: 'commons-scala_2.11', version: '1.0'
+}
